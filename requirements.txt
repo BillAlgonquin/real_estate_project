@@ -1,0 +1,10 @@
+streamlit 
+joblib 
+pandas 
+scikit-learn 
+
+
+## Running the Application
+
+1. Run the training script to train the model:
+2. Run the Streamlit app:

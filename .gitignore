@@ -1,0 +1,23 @@
+.anaconda/
+.bash_history
+.cache/
+.conda/
+.condarc
+.continuum/
+.gitconfig
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.lesshst
+.matplotlib/
+.streamlit/
+.vscode/
+AppData/
+Saved Games/
+Searches/
+Untitled.ipynb
+Untitled1.ipynb
+Untitled2.ipynb
+Untitled3.ipynb
+Untitled4.ipynb
+Untitled5.ipynb
